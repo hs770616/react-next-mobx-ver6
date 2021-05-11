@@ -31,7 +31,7 @@ class SearchStore {
   }
 }
 
-// // decorator(x), makeObservavble(o), makeAutoObservavble(x)
+// decorator(x), makeObservavble(o), makeAutoObservavble(x)
 // class SearchStore {
 //   search = "initVal";
 

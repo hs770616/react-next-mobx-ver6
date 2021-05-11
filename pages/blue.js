@@ -20,6 +20,7 @@ const Wrapper = styled.div`
   display: flex;
   align-items: center;
   flex-direction: column;
+  margin-top: 8%;
 `;
 
 const Container = styled.div`
