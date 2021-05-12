@@ -60,7 +60,6 @@ const SearchInput = styled.input`
 const SearchInputBtn = styled.button`
   height: 70px;
   width: 70px;
-  background-color: #00000055;
   border: none;
   border-radius: 0 35px 35px 0;
   cursor: pointer;
